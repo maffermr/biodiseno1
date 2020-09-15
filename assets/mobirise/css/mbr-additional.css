@@ -1124,6 +1124,64 @@ a {
   padding-bottom: 0px;
   background-color: #ffffff;
 }
+.cid-saDE7SCbgL {
+  padding-top: 3rem;
+  padding-bottom: 4rem;
+  background-image: url("../../../assets/images/captura-de-pantalla-2020-09-13-a-las-15.47.22-2000x1129.png");
+}
+.cid-saDE7SCbgL .mbr-overlay {
+  background: #fafafa;
+  opacity: 0.7;
+}
+.cid-saDE7SCbgL img,
+.cid-saDE7SCbgL .item-img {
+  height: 100%;
+  height: 300px;
+  object-fit: cover;
+}
+.cid-saDE7SCbgL .item:focus,
+.cid-saDE7SCbgL span:focus {
+  outline: none;
+}
+.cid-saDE7SCbgL .item {
+  cursor: pointer;
+  margin-bottom: 2rem;
+}
+.cid-saDE7SCbgL .item-wrapper {
+  position: relative;
+  border-radius: 4px;
+  background: #ffffff;
+  height: 100%;
+  display: flex;
+  flex-flow: column nowrap;
+}
+@media (min-width: 992px) {
+  .cid-saDE7SCbgL .item-wrapper .item-content {
+    padding: 2rem;
+  }
+}
+@media (max-width: 991px) {
+  .cid-saDE7SCbgL .item-wrapper .item-content {
+    padding: 1rem;
+  }
+}
+.cid-saDE7SCbgL .mbr-section-btn {
+  margin-top: auto !important;
+}
+.cid-saDE7SCbgL .mbr-section-title {
+  color: #232323;
+}
+.cid-saDE7SCbgL .mbr-text,
+.cid-saDE7SCbgL .mbr-section-btn {
+  text-align: left;
+}
+.cid-saDE7SCbgL .item-title {
+  text-align: center;
+}
+.cid-saDE7SCbgL .item-subtitle {
+  text-align: center;
+  color: #bbbbbb;
+}
 .cid-sapkeTdMgU {
   padding-top: 3rem;
   padding-bottom: 4rem;
@@ -1157,18 +1215,12 @@ a {
 }
 @media (min-width: 992px) {
   .cid-sapkeTdMgU .item-wrapper .item-content {
-    padding: 2rem 2rem 0;
-  }
-  .cid-sapkeTdMgU .item-wrapper .item-footer {
-    padding: 0 2rem 2rem;
+    padding: 2rem;
   }
 }
 @media (max-width: 991px) {
   .cid-sapkeTdMgU .item-wrapper .item-content {
-    padding: 1rem 1rem 0;
-  }
-  .cid-sapkeTdMgU .item-wrapper .item-footer {
-    padding: 0 1rem 1rem;
+    padding: 1rem;
   }
 }
 .cid-sapkeTdMgU .mbr-section-btn {
